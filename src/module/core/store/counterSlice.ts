@@ -14,7 +14,7 @@ const counterSlice = createSlice({
     decrement: (state, action) => {
       state.value -= 1;
 
-      console.log("decrementttttttt");
+      console.log("decrementttttttt 22222");
     },
   },
 });
